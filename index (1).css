@@ -1,0 +1,52 @@
+/*exteral CSS*/
+body{
+  background-color: floralwhite;
+}
+@import url('https://fonts.googleapis.com/css2?family=Roboto+Condensed&display=swap');
+*{
+  font-family: 'Roboto Condensed', sans-serif;
+}
+.name{
+  background-color: peru;
+  /* max-width: 50%;
+  width: 75%; */
+  /* typoghrapy */
+  font-size: 50px;
+  font-weight: 50px;
+  line-height: 90px;
+  color: floralwhite;
+}
+.nama {
+  background-color: peachpuff;
+  /* max-width: 50%;
+  width: 75% */
+}
+.gambar {
+  text-align: center;
+}
+.ukuran-gambar {
+  width: 50px;
+  weight: 50px;
+}
+.gambar-nadyne {
+  width: 200px;
+  weight: 200px;
+  border-radius: 50%;
+}
+.kotak {
+ background-color: bisque;
+    /* max-width: 50%;
+  width: 75% */
+}
+.gambar1 {
+  text-align: center;
+}
+.ukuran-gambar {
+  width: 50px;
+  weight: 50px;
+}
+.gambar-bkt {
+  width: 50px;
+  weight: 50px;
+  border-radius: 50%;
+}
